@@ -10,4 +10,4 @@
 >
 > [传送门](https://github.com/LandMineCube)
 
-![心情复杂 表情](https://github.com/LandMineCube/LandMineCube.github.io/blob/master/image/1.jpg)
+![心情复杂 表情](https://gitee.com/LSCLU/LMCube.github.io/blob/master/image/1.jpg)
