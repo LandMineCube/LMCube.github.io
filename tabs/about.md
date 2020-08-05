@@ -1,5 +1,5 @@
 ---
-title: 关于
+title: About
 
 # The About page
 # v2.0
@@ -8,4 +8,4 @@ title: 关于
 # MIT License
 ---
 
-> **注意**：仅作为测试，`不确定以后怎么发展`。
+> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
