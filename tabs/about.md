@@ -1,5 +1,5 @@
 ---
-title: About
+title: 关于
 
 # The About page
 # v2.0
@@ -8,4 +8,4 @@ title: About
 # MIT License
 ---
 
-> **注意**：仅作为测试，'不确定以后怎么发展'
+> **注意**：仅作为测试，`不确定以后怎么发展`。
